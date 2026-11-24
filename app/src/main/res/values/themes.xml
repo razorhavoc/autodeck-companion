@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AutoDeckCompanion" parent="android:Theme.Material.NoActionBar" />
+
+    <style name="Theme.AutoDeck.Car">
+        <item name="carColorPrimary">#0F766E</item>
+        <item name="carColorPrimaryDark">#115E59</item>
+        <item name="carColorSecondary">#F59E0B</item>
+        <item name="carColorSecondaryDark">#D97706</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoDeck Companion</string>
+    <string name="car_app_name">AutoDeck</string>
+    <string name="notification_listener_label">AutoDeck Now Playing Sync</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_mobility">EV &amp; Fuel</string>
+    <string name="tab_prayer">Prayer</string>
+    <string name="tab_hub">Hub</string>
+</resources>

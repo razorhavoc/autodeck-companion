@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoDeck Companion</string>
+    <string name="car_app_name">AutoDeck</string>
+    <string name="notification_listener_label">Penyelaras Muzik AutoDeck</string>
+    <string name="tab_home">Utama</string>
+    <string name="tab_mobility">EV &amp; Petrol</string>
+    <string name="tab_prayer">Solat</string>
+    <string name="tab_hub">Hab</string>
+</resources>
