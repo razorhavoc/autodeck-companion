@@ -1,0 +1,4 @@
+-keep class com.autodeck.companion.data.remote.** { *; }
+-keep class com.autodeck.companion.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
